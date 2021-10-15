@@ -450,7 +450,7 @@
               "div",
               { className: "col-4" },
               n.a.createElement("img", {
-                src: "../assets/heroes/".concat(t, ".jpg"), // ////////////
+                src: "assets/heroes/".concat(t, ".jpg"), // ////////////
                 alt: l,
                 className:
                   "img-thumbnail animate__animated animate__fadeInLeft",
